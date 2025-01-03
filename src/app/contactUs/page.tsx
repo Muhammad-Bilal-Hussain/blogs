@@ -43,7 +43,7 @@ function ContactUs() {
         Feedback
       </h2>
       <p className="leading-relaxed mb-5 text-red-700">
-        I'm Available for Your Discussion or Query
+        I&apos;m Available for Your Discussion or Query
       </p>
       <div className="relative mb-4">
         <label htmlFor="name" className="leading-7 text-sm text-red-700">
